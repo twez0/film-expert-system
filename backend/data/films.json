@@ -1,0 +1,3629 @@
+{
+    "films": [
+        {
+            "id": 1,
+            "title": "Начало",
+            "original_title": "Inception",
+            "year": 2010,
+            "genres": ["science fiction", "action", "thriller", "drama"],
+            "mood": ["intellectual", "tense", "mysterious", "epic"],
+            "energy_level": "high",
+            "duration": 148,
+            "rating": 8.8,
+            "director": "Christopher Nolan",
+            "description": "С помощью технологии вторжения в сны, вор должен внедрить идею в подсознание цели.",
+            "parameters": {
+                "complexity": 0.9,
+                "action": 0.8,
+                "emotional": 0.7,
+                "visual": 0.9,
+                "originality": 1.0,
+                "humor": 0.2,
+                "romance": 0.1,
+                "suspense": 0.9,
+                "philosophical": 0.7,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.9
+            },
+            "tags": [
+                "dreams",
+                "subconscious",
+                "action",
+                "visual effects",
+                "non-linear plot"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "high",
+                "preferred_viewing": ["alone", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["focus_required", "discussion_after"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "intellectual",
+                "action",
+                "dreams",
+                "science",
+                "thriller"
+            ],
+            "poster": "/src/assets/images/films/nachalo.png"
+        },
+        {
+            "id": 2,
+            "title": "Побег из Шоушенка",
+            "original_title": "The Shawshank Redemption",
+            "year": 1994,
+            "genres": ["drama", "crime"],
+            "mood": [
+                "hopeful",
+                "emotional",
+                "inspiring",
+                "dramatic",
+                "thoughtful"
+            ],
+            "energy_level": "medium",
+            "duration": 142,
+            "rating": 9.3,
+            "director": "Frank Darabont",
+            "description": "Бухгалтер Энди Дюфрейн, осуждённый за убийство жены, сталкивается с жестокостью тюремной жизни, но находит способ сохранить человечность и надежду.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.2,
+                "emotional": 0.95,
+                "visual": 0.4,
+                "originality": 0.6,
+                "humor": 0.3,
+                "romance": 0.1,
+                "suspense": 0.7,
+                "philosophical": 0.8,
+                "fast_paced": 0.3,
+                "thought_provoking": 0.9
+            },
+            "tags": ["prison", "hope", "friendship", "injustice", "redemption"],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": true
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["alone", "with_family"],
+                "best_time": ["evening"],
+                "viewing_context": ["emotional", "classic"]
+            },
+            "weight": 1.0,
+            "keywords": ["drama", "prison", "hope", "classic", "friendship"],
+            "poster": "/src/assets/images/films/pobeg-is-shoyshenka.png"
+        },
+        {
+            "id": 3,
+            "title": "Бегущий по лезвию 2049",
+            "original_title": "Blade Runner 2049",
+            "year": 2017,
+            "genres": ["science fiction", "drama", "thriller", "neo-noir"],
+            "mood": [
+                "atmospheric",
+                "contemplative",
+                "lonely",
+                "mysterious",
+                "visually stunning"
+            ],
+            "energy_level": "low",
+            "duration": 164,
+            "rating": 8.0,
+            "director": "Denis Villeneuve",
+            "description": "Молодой офицер-репликант K обнаруживает давно похороненную тайну, которая может разрушить хрупкий порядок общества, и отправляется на поиски Рика Декарда, пропавшего бывшего агента спецслужб.",
+            "parameters": {
+                "complexity": 0.8,
+                "action": 0.4,
+                "emotional": 0.7,
+                "visual": 1.0,
+                "originality": 0.8,
+                "humor": 0.1,
+                "romance": 0.3,
+                "suspense": 0.7,
+                "philosophical": 0.9,
+                "fast_paced": 0.2,
+                "thought_provoking": 0.95
+            },
+            "tags": [
+                "cyberpunk",
+                "replicants",
+                "dystopia",
+                "identity",
+                "cinematography"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "high",
+                "preferred_viewing": ["alone"],
+                "best_time": ["night"],
+                "viewing_context": [
+                    "focus_required",
+                    "visual_experience",
+                    "atmospheric"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "sci-fi",
+                "philosophical",
+                "visual",
+                "slow burn",
+                "future"
+            ],
+            "poster": "/src/assets/images/films/begushiy-2049.png"
+        },
+        {
+            "id": 4,
+            "title": "Омерзительная восьмёрка",
+            "original_title": "The Hateful Eight",
+            "year": 2015,
+            "genres": ["western", "drama", "thriller", "mystery"],
+            "mood": [
+                "tense",
+                "suspenseful",
+                "dark",
+                "claustrophobic",
+                "dialog-driven"
+            ],
+            "energy_level": "medium",
+            "duration": 168,
+            "rating": 7.8,
+            "director": "Quentin Tarantino",
+            "description": "Через несколько лет после Гражданской войны восемь незнакомцев оказываются в заброшенной лавке во время метели, и среди них затерялся убийца.",
+            "parameters": {
+                "complexity": 0.7,
+                "action": 0.6,
+                "emotional": 0.5,
+                "visual": 0.8,
+                "originality": 0.7,
+                "humor": 0.4,
+                "romance": 0.0,
+                "suspense": 0.95,
+                "philosophical": 0.3,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.4
+            },
+            "tags": ["tarantino", "dialogue", "snow", "betrayal", "violence"],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": false,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["dialogue_heavy", "tense"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "western",
+                "tarantino",
+                "suspense",
+                "mystery",
+                "violent"
+            ],
+            "poster": "/src/assets/images/films/omerzitelnaya8.png"
+        },
+        {
+            "id": 5,
+            "title": "Амели",
+            "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+            "year": 2001,
+            "genres": ["comedy", "romance", "drama"],
+            "mood": ["whimsical", "charming", "happy", "romantic", "quirky"],
+            "energy_level": "medium",
+            "duration": 122,
+            "rating": 8.3,
+            "director": "Jean-Pierre Jeunet",
+            "description": "Застенчивая официантка Амели решает анонимно менять жизнь окружающих к лучшему, но сталкивается с проблемами в собственной личной жизни.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.1,
+                "emotional": 0.8,
+                "visual": 0.9,
+                "originality": 0.9,
+                "humor": 0.8,
+                "romance": 0.9,
+                "suspense": 0.1,
+                "philosophical": 0.3,
+                "fast_paced": 0.4,
+                "thought_provoking": 0.2
+            },
+            "tags": ["paris", "whimsical", "romance", "feel-good", "colorful"],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": true,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["alone", "with_partner"],
+                "best_time": ["afternoon", "evening"],
+                "viewing_context": ["feel_good", "light", "romantic"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "romantic",
+                "french",
+                "feel-good",
+                "quirky",
+                "charming"
+            ],
+            "poster": "/src/assets/images/films/amely.png"
+        },
+        {
+            "id": 6,
+            "title": "Мегамозг",
+            "original_title": "Megamind",
+            "year": 2010,
+            "genres": [
+                "animation",
+                "comedy",
+                "family",
+                "science fiction",
+                "superhero"
+            ],
+            "mood": [
+                "funny",
+                "heartwarming",
+                "energetic",
+                "satirical",
+                "clever"
+            ],
+            "energy_level": "high",
+            "duration": 95,
+            "rating": 7.2,
+            "director": "Tom McGrath",
+            "description": "Гениальный суперзлодей Мегамозг наконец победил своего заклятого врага, супергероя Метрочеловека, но без героя его жизнь потеряла смысл, и он решил создать нового противника.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.7,
+                "emotional": 0.6,
+                "visual": 0.8,
+                "originality": 0.8,
+                "humor": 0.9,
+                "romance": 0.4,
+                "suspense": 0.4,
+                "philosophical": 0.3,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "supervillain",
+                "parody",
+                "redemption",
+                "animation",
+                "identity crisis"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_family", "with_friends"],
+                "best_time": ["afternoon", "evening"],
+                "viewing_context": ["funny", "entertainment", "light"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "animation",
+                "comedy",
+                "superhero",
+                "parody",
+                "family"
+            ],
+            "poster": "/src/assets/images/films/megamind.png"
+        },
+        {
+            "id": 7,
+            "title": "Оставленные",
+            "original_title": "The Leftovers",
+            "year": 1987,
+            "genres": ["horror", "thriller", "science fiction"],
+            "mood": [
+                "tense",
+                "dark",
+                "mysterious",
+                "paranoid",
+                "claustrophobic"
+            ],
+            "energy_level": "medium",
+            "duration": 90,
+            "rating": 5.8,
+            "director": "Vic Armstrong",
+            "description": "После глобальной катастрофы группа выживших пытается найти безопасное место, но сталкивается с мутировавшими существами, которые охотятся на оставшихся в живых.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.7,
+                "emotional": 0.5,
+                "visual": 0.6,
+                "originality": 0.3,
+                "humor": 0.1,
+                "romance": 0.2,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "post-apocalyptic",
+                "mutants",
+                "survival",
+                "horror",
+                "action"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": false,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["entertainment", "action", "thriller"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "horror",
+                "post-apocalyptic",
+                "action",
+                "mutants",
+                "survival"
+            ],
+            "poster": "/src/assets/images/films/ostavlennie.png"
+        },
+        {
+            "id": 8,
+            "title": "28 дней спустя",
+            "original_title": "28 Days Later",
+            "year": 2002,
+            "genres": [
+                "horror",
+                "science fiction",
+                "thriller",
+                "post-apocalyptic"
+            ],
+            "mood": [
+                "intense",
+                "desperate",
+                "claustrophobic",
+                "hopeless",
+                "chaotic"
+            ],
+            "energy_level": "high",
+            "duration": 113,
+            "rating": 7.5,
+            "director": "Danny Boyle",
+            "description": "Курьер Джим просыпается от комы в опустевшем лондонском госпитале и обнаруживает, что Британия опустошена агрессивной вирусной инфекцией, превращающей людей в яростных существ.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.8,
+                "emotional": 0.7,
+                "visual": 0.8,
+                "originality": 0.8,
+                "humor": 0.1,
+                "romance": 0.1,
+                "suspense": 0.9,
+                "philosophical": 0.5,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.6
+            },
+            "tags": [
+                "zombies",
+                "virus",
+                "apocalypse",
+                "survival",
+                "london",
+                "rage virus"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["intense", "thriller", "horror"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "zombie",
+                "apocalypse",
+                "horror",
+                "survival",
+                "british"
+            ],
+            "poster": "/src/assets/images/films/28dnei-spustiya.png"
+        },
+        {
+            "id": 9,
+            "title": "Крокодил Данди",
+            "original_title": "Crocodile Dundee",
+            "year": 1986,
+            "genres": ["comedy", "adventure", "romance"],
+            "mood": [
+                "funny",
+                "lighthearted",
+                "adventurous",
+                "charming",
+                "feel-good"
+            ],
+            "energy_level": "medium",
+            "duration": 98,
+            "rating": 6.9,
+            "director": "Peter Faiman",
+            "description": "Американская журналистка отправляется в австралийскую глубинку, чтобы написать статью о легендарном охотнике на крокодилов Майке Данди, а затем приглашает его в Нью-Йорк, где его деревенские привычки вызывают культурный шок.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.4,
+                "emotional": 0.5,
+                "visual": 0.6,
+                "originality": 0.7,
+                "humor": 0.9,
+                "romance": 0.7,
+                "suspense": 0.3,
+                "philosophical": 0.1,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "australia",
+                "culture clash",
+                "fish out of water",
+                "comedy",
+                "adventure"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": true,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_family", "with_friends"],
+                "best_time": ["afternoon", "evening"],
+                "viewing_context": ["light", "comedy", "entertainment"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "comedy",
+                "australia",
+                "culture clash",
+                "romantic",
+                "adventure"
+            ],
+            "poster": "/src/assets/images/films/krokodil-dandi.png"
+        },
+        {
+            "id": 10,
+            "title": "Ледяная дрожь",
+            "original_title": "The Chill Factor",
+            "year": 1999,
+            "genres": ["action", "thriller", "adventure"],
+            "mood": [
+                "tense",
+                "cold",
+                "desperate",
+                "suspenseful",
+                "action-packed"
+            ],
+            "energy_level": "high",
+            "duration": 102,
+            "rating": 5.3,
+            "director": "Hugh Johnson",
+            "description": "Двое случайных попутчиков должны перевезти через заснеженные горы секретный химический агент, который может замерзнуть только при экстремально низкой температуре, преследуемые группой наёмников.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.9,
+                "emotional": 0.4,
+                "visual": 0.7,
+                "originality": 0.4,
+                "humor": 0.3,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.1,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "snow",
+                "road movie",
+                "chemical weapon",
+                "survival",
+                "buddy film"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": false,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening"],
+                "viewing_context": ["action", "entertainment", "thriller"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "action",
+                "thriller",
+                "snow",
+                "adventure",
+                "buddy film"
+            ],
+            "poster": "/src/assets/images/films/ledyanaya-drozh.png"
+        },
+        {
+            "id": 11,
+            "title": "Бангкок опасен",
+            "original_title": "Bangkok Dangerous",
+            "year": 2008,
+            "genres": ["action", "thriller", "crime", "drama"],
+            "mood": ["dark", "atmospheric", "lonely", "violent", "redemptive"],
+            "energy_level": "medium",
+            "duration": 99,
+            "rating": 5.3,
+            "director": "Oxide Pang Chun, Danny Pang",
+            "description": "Опытный наёмник-одиночка приезжает в Бангкок для выполнения серии заказов, но встреча с местной девушкой заставляет его переосмыслить свою жизнь и профессию.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.7,
+                "emotional": 0.6,
+                "visual": 0.7,
+                "originality": 0.3,
+                "humor": 0.1,
+                "romance": 0.4,
+                "suspense": 0.6,
+                "philosophical": 0.3,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "assassin",
+                "redemption",
+                "bangkok",
+                "crime",
+                "loner",
+                "thailand"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["alone", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["action", "crime", "atmospheric"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "nicholas cage",
+                "assassin",
+                "bangkok",
+                "action",
+                "crime"
+            ],
+            "poster": "/src/assets/images/films/opasniy-bangkok.png"
+        },
+        {
+            "id": 12,
+            "title": "Мир Юрского периода",
+            "original_title": "Jurassic World",
+            "year": 2015,
+            "genres": ["action", "adventure", "science fiction", "thriller"],
+            "mood": [
+                "thrilling",
+                "spectacular",
+                "tense",
+                "adventurous",
+                "nostalgic"
+            ],
+            "energy_level": "high",
+            "duration": 124,
+            "rating": 7.0,
+            "director": "Colin Trevorrow",
+            "description": "Спустя 22 года после инцидента на острове Нублар, тематический парк «Мир Юрского периода» наконец открыт, но когда генетически модифицированный динозавр вырывается на свободу, начинается хаос.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.9,
+                "emotional": 0.6,
+                "visual": 0.95,
+                "originality": 0.5,
+                "humor": 0.4,
+                "romance": 0.3,
+                "suspense": 0.8,
+                "philosophical": 0.3,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "dinosaurs",
+                "theme park",
+                "chaos",
+                "genetic engineering",
+                "action",
+                "sequel"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "spectacle",
+                    "action",
+                    "adventure",
+                    "special_effects"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "dinosaurs",
+                "jurassic park",
+                "action",
+                "adventure",
+                "science fiction"
+            ],
+            "poster": "/src/assets/images/films/mir-yrskogo-perioda.png"
+        },
+        {
+            "id": 13,
+            "title": "Кинг-Конг",
+            "original_title": "King Kong",
+            "year": 2005,
+            "genres": ["adventure", "action", "drama", "fantasy", "romance"],
+            "mood": [
+                "epic",
+                "tragic",
+                "romantic",
+                "adventurous",
+                "spectacular"
+            ],
+            "energy_level": "medium",
+            "duration": 187,
+            "rating": 7.2,
+            "director": "Peter Jackson",
+            "description": "Во времена Великой депрессии режиссёр и актриса отправляются на загадочный Остров Черепа, где встречают гигантскую гориллу Конга, которого затем привозят в Нью-Йорк для показа публике.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.8,
+                "emotional": 0.9,
+                "visual": 0.95,
+                "originality": 0.6,
+                "humor": 0.3,
+                "romance": 0.7,
+                "suspense": 0.8,
+                "philosophical": 0.4,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.5
+            },
+            "tags": [
+                "giant ape",
+                "island adventure",
+                "beauty and the beast",
+                "tragedy",
+                "1930s",
+                "new york"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening"],
+                "viewing_context": [
+                    "epic",
+                    "adventure",
+                    "emotional",
+                    "spectacle"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "king kong",
+                "peter jackson",
+                "adventure",
+                "fantasy",
+                "remake"
+            ],
+            "poster": "/src/assets/images/films/king-kong.png"
+        },
+        {
+            "id": 14,
+            "title": "Аватар",
+            "original_title": "Avatar",
+            "year": 2009,
+            "genres": ["action", "adventure", "fantasy", "science fiction"],
+            "mood": [
+                "epic",
+                "visually stunning",
+                "spiritual",
+                "adventurous",
+                "emotional"
+            ],
+            "energy_level": "high",
+            "duration": 162,
+            "rating": 7.9,
+            "director": "James Cameron",
+            "description": "Бывший морпех, парализованный ниже пояса, отправляется на далёкую планету Пандора через программу «аватар» и оказывается втянут в конфликт между земными колонизаторами и местным племенем На'ви.",
+            "parameters": {
+                "complexity": 0.6,
+                "action": 0.8,
+                "emotional": 0.8,
+                "visual": 1.0,
+                "originality": 0.8,
+                "humor": 0.2,
+                "romance": 0.7,
+                "suspense": 0.7,
+                "philosophical": 0.6,
+                "fast_paced": 0.7,
+                "thought_provoking": 0.7
+            },
+            "tags": [
+                "pandora",
+                "3d",
+                "alien world",
+                "ecology",
+                "colonialism",
+                "navi"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "visual_experience",
+                    "spectacle",
+                    "imax",
+                    "3d"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "james cameron",
+                "3d",
+                "science fiction",
+                "visual effects",
+                "epic"
+            ],
+            "poster": "/src/assets/images/films/avatar.png"
+        },
+        {
+            "id": 15,
+            "title": "Звёздный путь",
+            "original_title": "Star Trek",
+            "year": 2009,
+            "genres": ["action", "adventure", "science fiction"],
+            "mood": [
+                "energetic",
+                "optimistic",
+                "adventurous",
+                "epic",
+                "nostalgic"
+            ],
+            "energy_level": "high",
+            "duration": 127,
+            "rating": 7.9,
+            "director": "J.J. Abrams",
+            "description": "В альтернативной реальности молодой Джеймс Т. Кирк и его будущие товарищи по экипажу звёздного корабля «Энтерпрайз» впервые объединяются, чтобы остановить ромуланского злодея Неро из будущего.",
+            "parameters": {
+                "complexity": 0.6,
+                "action": 0.9,
+                "emotional": 0.7,
+                "visual": 0.9,
+                "originality": 0.7,
+                "humor": 0.6,
+                "romance": 0.3,
+                "suspense": 0.8,
+                "philosophical": 0.4,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.5
+            },
+            "tags": [
+                "reboot",
+                "alternate timeline",
+                "starship",
+                "space adventure",
+                "origin story",
+                "spock"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["action", "adventure", "space", "reboot"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "star trek",
+                "reboot",
+                "space",
+                "action",
+                "science fiction"
+            ],
+            "poster": "/src/assets/images/films/star-track.png"
+        },
+        {
+            "id": 16,
+            "title": "Тень в глубине",
+            "original_title": "Shadow in the Deep",
+            "year": 2007,
+            "genres": ["horror", "thriller", "mystery"],
+            "mood": [
+                "dark",
+                "suspenseful",
+                "claustrophobic",
+                "mysterious",
+                "paranoid"
+            ],
+            "energy_level": "medium",
+            "duration": 89,
+            "rating": 4.5,
+            "director": "Stuart Raffill",
+            "description": "Группа исследователей погружается в глубины океана для изучения аномалий, но оказывается в ловушке на дне, где их начинает преследовать таинственное и агрессивное существо.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.5,
+                "emotional": 0.4,
+                "visual": 0.5,
+                "originality": 0.3,
+                "humor": 0.1,
+                "romance": 0.1,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "underwater",
+                "deep sea",
+                "monster",
+                "survival",
+                "horror",
+                "trapped"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": false,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "horror",
+                    "thriller",
+                    "b-movie",
+                    "creature_feature"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "underwater horror",
+                "monster",
+                "b-movie",
+                "deep sea",
+                "creature feature"
+            ],
+            "poster": "/src/assets/images/films/ten-v-glubine.png"
+        },
+        {
+            "id": 17,
+            "title": "Ценный груз",
+            "original_title": "Valuable Cargo",
+            "year": 2016,
+            "genres": ["action", "thriller", "crime"],
+            "mood": ["tense", "violent", "fast-paced", "gritty", "suspenseful"],
+            "energy_level": "high",
+            "duration": 90,
+            "rating": 4.2,
+            "director": "Max Adams",
+            "description": "Бывший морской пехотинец становится наёмным водителем для перевозки секретного груза, но когда его грузовик захватывает банда преступников, он должен использовать все свои навыки, чтобы выжить и завершить миссию.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.9,
+                "emotional": 0.4,
+                "visual": 0.6,
+                "originality": 0.3,
+                "humor": 0.2,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.1,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "truck driver",
+                "road thriller",
+                "hostage",
+                "survival",
+                "action",
+                "cargo"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": false,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening"],
+                "viewing_context": [
+                    "action",
+                    "thriller",
+                    "entertainment",
+                    "b-movie"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": ["action", "truck", "cargo", "thriller", "low-budget"],
+            "poster": "/src/assets/images/films/cenniy-gruz.png"
+        },
+        {
+            "id": 18,
+            "title": "Во имя короля: История осады подземелья",
+            "original_title": "In the Name of the King: A Dungeon Siege Tale",
+            "year": 2007,
+            "genres": ["action", "adventure", "fantasy"],
+            "mood": ["epic", "medieval", "adventurous", "b-movie", "campy"],
+            "energy_level": "medium",
+            "duration": 127,
+            "rating": 3.8,
+            "director": "Uwe Boll",
+            "description": "Простой фермер отправляется в опасное путешествие, чтобы спасти свою жену и отомстить за смерть сына, когда армия злых существ нападает на его деревню, вовлекая его в войну за королевство.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.8,
+                "emotional": 0.5,
+                "visual": 0.6,
+                "originality": 0.3,
+                "humor": 0.2,
+                "romance": 0.3,
+                "suspense": 0.5,
+                "philosophical": 0.2,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "dungeon siege",
+                "video game adaptation",
+                "medieval",
+                "orcs",
+                "farmers revenge",
+                "kingdom"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening"],
+                "viewing_context": [
+                    "fantasy",
+                    "action",
+                    "video_game_adaptation",
+                    "so_bad_its_good"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "uwe boll",
+                "fantasy",
+                "dungeon siege",
+                "video game",
+                "medieval"
+            ],
+            "poster": "/src/assets/images/films/vo-imya-korolya.png"
+        },
+        {
+            "id": 19,
+            "title": "Американский пирог",
+            "original_title": "American Pie",
+            "year": 1999,
+            "genres": ["comedy", "romance"],
+            "mood": ["funny", "raunchy", "nostalgic", "teen", "coming-of-age"],
+            "energy_level": "high",
+            "duration": 95,
+            "rating": 7.0,
+            "director": "Paul Weitz, Chris Weitz",
+            "description": "Четверо старшеклассников дают клятву перед выпускным балом потерять свою девственность, что приводит к серии неловких и смешных ситуаций в их поисках любви и секса.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.1,
+                "emotional": 0.5,
+                "visual": 0.4,
+                "originality": 0.7,
+                "humor": 0.95,
+                "romance": 0.6,
+                "suspense": 0.2,
+                "philosophical": 0.1,
+                "fast_paced": 0.7,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "teen comedy",
+                "virginity",
+                "coming of age",
+                "high school",
+                "raunchy humor",
+                "1990s"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": true,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": true
+            },
+            "target_audience": {
+                "age_group": "teen",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["comedy", "teen", "light", "nostalgic"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "teen comedy",
+                "raunchy",
+                "coming of age",
+                "1990s",
+                "virginity"
+            ],
+            "poster": "/src/assets/images/films/americanskiy-pirog.png"
+        },
+        {
+            "id": 20,
+            "title": "Поворот не туда 4: Кровавое начало",
+            "original_title": "Wrong Turn 4: Bloody Beginnings",
+            "year": 2011,
+            "genres": ["horror", "thriller"],
+            "mood": [
+                "gruesome",
+                "tense",
+                "violent",
+                "claustrophobic",
+                "brutal"
+            ],
+            "energy_level": "high",
+            "duration": 93,
+            "rating": 4.2,
+            "director": "Declan O'Brien",
+            "description": "Группа студентов застревает в заброшенной психиатрической больнице во время снежной бури, где становятся мишенью для троих мутировавших каннибалов, сбежавших из заточения.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.7,
+                "emotional": 0.3,
+                "visual": 0.6,
+                "originality": 0.2,
+                "humor": 0.1,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.1,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "cannibals",
+                "snow",
+                "asylum",
+                "mutants",
+                "slasher",
+                "survival horror"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": false,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["night"],
+                "viewing_context": ["horror", "slasher", "gore", "b-movie"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "wrong turn",
+                "horror",
+                "cannibals",
+                "slasher",
+                "mutants"
+            ],
+            "poster": "/src/assets/images/films/povorot-ne-tuda4.png"
+        },
+        {
+            "id": 21,
+            "title": "Один дома",
+            "original_title": "Home Alone",
+            "year": 1990,
+            "genres": ["comedy", "family", "crime"],
+            "mood": [
+                "funny",
+                "heartwarming",
+                "christmas",
+                "mischievous",
+                "festive"
+            ],
+            "energy_level": "medium",
+            "duration": 103,
+            "rating": 7.7,
+            "director": "Chris Columbus",
+            "description": "Восьмилетний Кевин случайно остаётся один дома, когда его большая семья улетает на рождественские каникулы, и должен защищать дом от двух некомпетентных грабителей.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.6,
+                "emotional": 0.7,
+                "visual": 0.5,
+                "originality": 0.8,
+                "humor": 0.9,
+                "romance": 0.1,
+                "suspense": 0.5,
+                "philosophical": 0.1,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "christmas",
+                "family",
+                "home defense",
+                "burglars",
+                "holiday",
+                "child protagonist"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": true,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "family",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_family"],
+                "best_time": ["evening", "christmas"],
+                "viewing_context": ["family", "holiday", "christmas", "comedy"]
+            },
+            "weight": 1.0,
+            "keywords": ["christmas", "family", "comedy", "holiday", "1990s"],
+            "poster": "/src/assets/images/films/odin-doma.png"
+        },
+        {
+            "id": 22,
+            "title": "Гринч",
+            "original_title": "The Grinch",
+            "year": 2018,
+            "genres": ["animation", "comedy", "family", "fantasy", "holiday"],
+            "mood": [
+                "heartwarming",
+                "funny",
+                "festive",
+                "whimsical",
+                "colorful"
+            ],
+            "energy_level": "medium",
+            "duration": 90,
+            "rating": 6.3,
+            "director": "Yarrow Cheney, Scott Mosier",
+            "description": "Зелёный мизантроп по имени Гринч решает украсть Рождество у чрезмерно весёлых жителей Ктограда, но его планы меняются, когда он встречает маленькую девочку Синди Лу.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.3,
+                "emotional": 0.7,
+                "visual": 0.9,
+                "originality": 0.5,
+                "humor": 0.7,
+                "romance": 0.1,
+                "suspense": 0.3,
+                "philosophical": 0.2,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "christmas",
+                "dr seuss",
+                "redemption",
+                "animation",
+                "holiday",
+                "illumination"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": true,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "family",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_family"],
+                "best_time": ["christmas", "evening"],
+                "viewing_context": [
+                    "family",
+                    "holiday",
+                    "animation",
+                    "christmas"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "christmas",
+                "animation",
+                "grinch",
+                "family",
+                "illumination"
+            ],
+            "poster": "/src/assets/images/films/grinch.png"
+        },
+        {
+            "id": 23,
+            "title": "Пираты Карибского моря: Проклятие Чёрной жемчужины",
+            "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "year": 2003,
+            "genres": ["action", "adventure", "fantasy"],
+            "mood": [
+                "swashbuckling",
+                "adventurous",
+                "funny",
+                "supernatural",
+                "epic"
+            ],
+            "energy_level": "high",
+            "duration": 143,
+            "rating": 8.1,
+            "director": "Gore Verbinski",
+            "description": "Эксцентричный пират Джек Воробей объединяется с кузнецом Уиллом Тёрнером, чтобы спасти дочь губернатора от проклятой команды пиратов-скелетов, которые ищут древний золотой ацтекский артефакт.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.9,
+                "emotional": 0.6,
+                "visual": 0.9,
+                "originality": 0.8,
+                "humor": 0.8,
+                "romance": 0.5,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.3
+            },
+            "tags": [
+                "pirates",
+                "cursed treasure",
+                "caribbean",
+                "skeletons",
+                "swashbuckler",
+                "johnny depp"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "adventure",
+                    "action",
+                    "fantasy",
+                    "summer_blockbuster"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "pirates",
+                "jack sparrow",
+                "adventure",
+                "fantasy",
+                "cursed"
+            ],
+            "poster": "/src/assets/images/films/pirati-karibskogo-morya-chernaya-djemchujina.png"
+        },
+        {
+            "id": 24,
+            "title": "Матрица",
+            "original_title": "The Matrix",
+            "year": 1999,
+            "genres": ["action", "science fiction"],
+            "mood": [
+                "mind-bending",
+                "cyberpunk",
+                "philosophical",
+                "stylish",
+                "revolutionary"
+            ],
+            "energy_level": "high",
+            "duration": 136,
+            "rating": 8.7,
+            "director": "Lana Wachowski, Lilly Wachowski",
+            "description": "Хакер по кличке Нео узнаёт шокирующую правду о реальности: мир, который он знает, является компьютерной симуляцией, созданной машинами для порабощения человечества.",
+            "parameters": {
+                "complexity": 0.8,
+                "action": 0.9,
+                "emotional": 0.6,
+                "visual": 0.95,
+                "originality": 0.95,
+                "humor": 0.2,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.9,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.95
+            },
+            "tags": [
+                "simulated reality",
+                "cyberpunk",
+                "bullet time",
+                "red pill",
+                "chosen one",
+                "kung fu"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "high",
+                "preferred_viewing": ["alone", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "philosophical",
+                    "action",
+                    "mind_bending",
+                    "cult_classic"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "cyberpunk",
+                "philosophy",
+                "action",
+                "science fiction",
+                "simulation"
+            ],
+            "poster": "/src/assets/images/films/matrix.png"
+        },
+        {
+            "id": 25,
+            "title": "Дюна",
+            "original_title": "Dune",
+            "year": 2021,
+            "genres": ["adventure", "drama", "science fiction"],
+            "mood": [
+                "epic",
+                "atmospheric",
+                "meditative",
+                "grandiose",
+                "mystical"
+            ],
+            "energy_level": "medium",
+            "duration": 155,
+            "rating": 8.0,
+            "director": "Denis Villeneuve",
+            "description": "Молодой Пол Атрейдес отправляется на самую опасную планету во Вселенной, чтобы обеспечить будущее своего семьи и народа, сталкиваясь со смертельными врагами и исполняя древнее пророчество.",
+            "parameters": {
+                "complexity": 0.8,
+                "action": 0.6,
+                "emotional": 0.7,
+                "visual": 0.95,
+                "originality": 0.7,
+                "humor": 0.1,
+                "romance": 0.2,
+                "suspense": 0.7,
+                "philosophical": 0.8,
+                "fast_paced": 0.4,
+                "thought_provoking": 0.9
+            },
+            "tags": [
+                "arrakis",
+                "spice",
+                "prophecy",
+                "desert planet",
+                "political intrigue",
+                "frank herbert"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "high",
+                "preferred_viewing": ["alone", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "epic",
+                    "science_fiction",
+                    "atmospheric",
+                    "imax"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "science fiction",
+                "epic",
+                "denis villeneuve",
+                "space",
+                "political"
+            ],
+            "poster": "/src/assets/images/films/dune.png"
+        },
+        {
+            "id": 26,
+            "title": "Джентльмены",
+            "original_title": "The Gentlemen",
+            "year": 2019,
+            "genres": ["action", "comedy", "crime"],
+            "mood": ["stylish", "witty", "violent", "cool", "darkly comedic"],
+            "energy_level": "high",
+            "duration": 113,
+            "rating": 7.8,
+            "director": "Guy Ritchie",
+            "description": "Американский наркобарон, решивший продать свою прибыльную марихуановую империю в Лондоне, сталкивается с чередой шантажа, интриг и насилия со стороны потенциальных покупателей и конкурентов.",
+            "parameters": {
+                "complexity": 0.7,
+                "action": 0.7,
+                "emotional": 0.4,
+                "visual": 0.8,
+                "originality": 0.6,
+                "humor": 0.8,
+                "romance": 0.2,
+                "suspense": 0.7,
+                "philosophical": 0.3,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "london crime",
+                "drug trade",
+                "blackmail",
+                "guy ritchie",
+                "witty dialogue",
+                "gangsters"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": false,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "crime",
+                    "comedy",
+                    "stylish",
+                    "dialogue_driven"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "guy ritchie",
+                "crime",
+                "comedy",
+                "london",
+                "gangsters"
+            ],
+            "poster": "/src/assets/images/films/djentelmeny.png"
+        },
+        {
+            "id": 27,
+            "title": "Крэйвен-охотник",
+            "original_title": "Kraven the Hunter",
+            "year": 2024,
+            "genres": ["action", "adventure", "fantasy", "superhero"],
+            "mood": ["brutal", "intense", "revenge-driven", "dark", "violent"],
+            "energy_level": "high",
+            "duration": 104,
+            "rating": 6.0,
+            "director": "J.C. Chandor",
+            "description": "Сергей Кравинов, один из самых опасных охотников в мире, отправляется в смертельное путешествие, чтобы доказать, что он величайший охотник, столкнувшись с могущественными силами и своим прошлым.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.9,
+                "emotional": 0.6,
+                "visual": 0.8,
+                "originality": 0.4,
+                "humor": 0.3,
+                "romance": 0.2,
+                "suspense": 0.7,
+                "philosophical": 0.3,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.3
+            },
+            "tags": [
+                "marvel",
+                "spider-man villain",
+                "hunter",
+                "origin story",
+                "superhero",
+                "antihero"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["action", "superhero", "marvel", "antihero"]
+            },
+            "weight": 1.0,
+            "keywords": ["marvel", "kraven", "superhero", "hunter", "action"],
+            "poster": "/src/assets/images/films/kreyven-oxotnik.png"
+        },
+        {
+            "id": 28,
+            "title": "Мумия",
+            "original_title": "The Mummy",
+            "year": 1999,
+            "genres": ["action", "adventure", "fantasy", "horror"],
+            "mood": ["adventurous", "funny", "supernatural", "epic", "pulp"],
+            "energy_level": "high",
+            "duration": 125,
+            "rating": 7.1,
+            "director": "Stephen Sommers",
+            "description": "Авантюрист и искатель сокровищ Рик О'Коннелл случайно пробуждает древнее проклятие, когда вместе с библиотекарем и её братом открывает гробницу высокопоставленного жреца Имхотепа в Хамунаптре.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.8,
+                "emotional": 0.5,
+                "visual": 0.8,
+                "originality": 0.6,
+                "humor": 0.7,
+                "romance": 0.5,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "egypt",
+                "mummy",
+                "curse",
+                "adventure",
+                "supernatural",
+                "1920s"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "adventure",
+                    "action",
+                    "supernatural",
+                    "summer_blockbuster"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "mummy",
+                "egypt",
+                "adventure",
+                "action",
+                "supernatural"
+            ],
+            "poster": "/src/assets/images/films/mumiya.png"
+        },
+        {
+            "id": 29,
+            "title": "Ван Хельсинг",
+            "original_title": "Van Helsing",
+            "year": 2004,
+            "genres": ["action", "adventure", "fantasy", "horror"],
+            "mood": ["gothic", "epic", "dark", "action-packed", "monstrous"],
+            "energy_level": "high",
+            "duration": 131,
+            "rating": 6.1,
+            "director": "Stephen Sommers",
+            "description": "Легендарный охотник на монстров Ван Хельсинг отправляется в Трансильванию, чтобы помочь местной принцессе победить графа Дракулу и остановить его планы по созданию армии детей ночи.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.9,
+                "emotional": 0.5,
+                "visual": 0.8,
+                "originality": 0.5,
+                "humor": 0.4,
+                "romance": 0.4,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "dracula",
+                "frankenstein",
+                "werewolf",
+                "monster hunter",
+                "gothic",
+                "universal monsters"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": ["action", "monsters", "gothic", "adventure"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "van helsing",
+                "dracula",
+                "monsters",
+                "action",
+                "gothic"
+            ],
+            "poster": "/src/assets/images/films/van-helsing.png"
+        },
+        {
+            "id": 30,
+            "title": "Выживший",
+            "original_title": "The Revenant",
+            "year": 2015,
+            "genres": ["adventure", "drama", "thriller", "western"],
+            "mood": ["brutal", "visceral", "survival", "epic", "harsh"],
+            "energy_level": "medium",
+            "duration": 156,
+            "rating": 8.0,
+            "director": "Alejandro G. Iñárritu",
+            "description": "Охотник на пушнину Хью Гласс жестоко ранен медведем и оставлен умирать своими товарищами в дикой местности. Он выживает и отправляется в опасное путешествие, чтобы выжить и отомстить.",
+            "parameters": {
+                "complexity": 0.6,
+                "action": 0.7,
+                "emotional": 0.9,
+                "visual": 0.95,
+                "originality": 0.7,
+                "humor": 0.1,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.6,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.8
+            },
+            "tags": [
+                "wilderness",
+                "revenge",
+                "survival",
+                "bear attack",
+                "frontier",
+                "19th century"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": true
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["alone"],
+                "best_time": ["evening"],
+                "viewing_context": [
+                    "survival",
+                    "drama",
+                    "cinematic",
+                    "award_winning"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "survival",
+                "revenge",
+                "wilderness",
+                "leonardo dicaprio",
+                "oscar"
+            ],
+            "poster": "/src/assets/images/films/vizhevshiy.png"
+        },
+        {
+            "id": 31,
+            "title": "Гарри Поттер и философский камень",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "year": 2001,
+            "genres": ["fantasy", "adventure", "family", "mystery"],
+            "mood": [
+                "magical",
+                "whimsical",
+                "mysterious",
+                "wondrous",
+                "nostalgic",
+                "heartwarming"
+            ],
+            "energy_level": "medium",
+            "duration": 152,
+            "rating": 7.6,
+            "director": "Chris Columbus",
+            "description": "Мальчик-сирота Гарри Поттер живёт у ужасных родственников, пока в его 11-й день рождения не узнаёт, что он волшебник и зачислен в школу чародейства и волшебства Хогвартс. Там он находит друзей, изучает магию и раскрывает тайну философского камня, охраняемого в глубинах школы.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.5,
+                "emotional": 0.7,
+                "visual": 0.85,
+                "originality": 0.8,
+                "humor": 0.6,
+                "romance": 0.1,
+                "suspense": 0.7,
+                "philosophical": 0.3,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "wizard school",
+                "magic",
+                "orphan",
+                "friendship",
+                "first year",
+                "hogwarts",
+                "j.k. rowling",
+                "introduction to magic"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "family",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_family", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "family",
+                    "fantasy",
+                    "magical",
+                    "introduction_to_franchise"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "harry potter",
+                "magic",
+                "hogwarts",
+                "fantasy",
+                "family",
+                "wizard"
+            ],
+            "poster": "/src/assets/images/films/harry-potter-philosophers-stone.png"
+        },
+        {
+            "id": 32,
+            "title": "Корпорация монстров",
+            "original_title": "Monsters, Inc.",
+            "year": 2001,
+            "genres": ["animation", "comedy", "family", "fantasy"],
+            "mood": [
+                "funny",
+                "heartwarming",
+                "imaginative",
+                "adventurous",
+                "whimsical",
+                "emotional"
+            ],
+            "energy_level": "high",
+            "duration": 92,
+            "rating": 8.1,
+            "director": "Pete Docter, David Silverman, Lee Unkrich",
+            "description": "В монстрополисе Монстрополисе энергия вырабатывается за счёт криков детей, которых пугают монстры, проникая в их спальни через специальные двери. Лучший пугальщик Салли и его помощник Майк случайно впускают в свой мир маленькую девочку Бу, что вызывает хаос, ведь дети считаются токсичными.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.6,
+                "emotional": 0.8,
+                "visual": 0.9,
+                "originality": 0.9,
+                "humor": 0.9,
+                "romance": 0.1,
+                "suspense": 0.6,
+                "philosophical": 0.4,
+                "fast_paced": 0.7,
+                "thought_provoking": 0.5
+            },
+            "tags": [
+                "pixar",
+                "monsters",
+                "energy crisis",
+                "friendship",
+                "child",
+                "workplace comedy",
+                "doors",
+                "scariness"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "family",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_family", "with_friends"],
+                "best_time": ["afternoon", "evening"],
+                "viewing_context": ["family", "animation", "feel_good", "pixar"]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "pixar",
+                "animation",
+                "monsters",
+                "comedy",
+                "family",
+                "friendship"
+            ],
+            "poster": "/src/assets/images/films/korporatsiya-monstrov.png"
+        },
+        {
+            "id": 33,
+            "title": "Я – легенда",
+            "original_title": "I Am Legend",
+            "year": 2007,
+            "genres": [
+                "science fiction",
+                "drama",
+                "horror",
+                "post-apocalyptic"
+            ],
+            "mood": [
+                "lonely",
+                "desolate",
+                "tense",
+                "melancholic",
+                "claustrophobic",
+                "survival"
+            ],
+            "energy_level": "medium",
+            "duration": 101,
+            "rating": 7.2,
+            "director": "Francis Lawrence",
+            "description": "После неудачной попытки создать вакцину от рака, вирус уничтожил большую часть человечества, превратив выживших в светочувствительных мутантов. Доктор Роберт Невилл, обладающий иммунитетом, остаётся последним человеком в Нью-Йорке, пытаясь найти лекарство и выжить в опустевшем городе, кишащем ночными существами.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.6,
+                "emotional": 0.8,
+                "visual": 0.8,
+                "originality": 0.7,
+                "humor": 0.1,
+                "romance": 0.1,
+                "suspense": 0.9,
+                "philosophical": 0.6,
+                "fast_paced": 0.5,
+                "thought_provoking": 0.8
+            },
+            "tags": [
+                "vampire zombies",
+                "last man on earth",
+                "new york empty",
+                "dog companion",
+                "virology",
+                "isolation",
+                "experiments"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["alone", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "post_apocalyptic",
+                    "psychological",
+                    "survival",
+                    "atmospheric"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "will smith",
+                "post-apocalyptic",
+                "vampires",
+                "loneliness",
+                "survival",
+                "zombie"
+            ],
+            "poster": "/src/assets/images/films/ya-legenda.png"
+        },
+        {
+            "id": 34,
+            "title": "Форсаж",
+            "original_title": "The Fast and the Furious",
+            "year": 2001,
+            "genres": ["action", "crime", "thriller"],
+            "mood": [
+                "high-octane",
+                "tense",
+                "rebellious",
+                "stylish",
+                "streetwise",
+                "competitive"
+            ],
+            "energy_level": "high",
+            "duration": 106,
+            "rating": 6.8,
+            "director": "Rob Cohen",
+            "description": "Полицейский Брайан О'Коннер внедряется в мир уличных гонок Лос-Анджелеса, чтобы расследовать серию дерзких ограблений грузовиков. Он сближается с лидером гонщиков Домиником Торетто и его бандой, но оказывается перед выбором между долгом и новой семьёй, которую обрёл.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.9,
+                "emotional": 0.5,
+                "visual": 0.7,
+                "originality": 0.6,
+                "humor": 0.4,
+                "romance": 0.5,
+                "suspense": 0.6,
+                "philosophical": 0.1,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "street racing",
+                "undercover cop",
+                "car culture",
+                "heists",
+                "family",
+                "los angeles",
+                "nitro"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "action",
+                    "cars",
+                    "entertainment",
+                    "franchise_start"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "fast and furious",
+                "street racing",
+                "cars",
+                "action",
+                "undercover",
+                "vin diesel"
+            ],
+            "poster": "/src/assets/images/films/forsazh.png"
+        },
+        {
+            "id": 35,
+            "title": "Послезавтра",
+            "original_title": "The Day After Tomorrow",
+            "year": 2004,
+            "genres": ["science fiction", "disaster", "thriller", "adventure"],
+            "mood": [
+                "catastrophic",
+                "tense",
+                "epic",
+                "survival",
+                "chilling",
+                "suspenseful"
+            ],
+            "energy_level": "high",
+            "duration": 124,
+            "rating": 6.4,
+            "director": "Roland Emmerich",
+            "description": "Климатолог Джек Холл предупреждает мировых лидеров о грядущей климатической катастрофе из-за глобального потепления, но его никто не слушает. Когда стремительное изменение климата вызывает новый ледниковый период в северном полушарии, Джек отправляется в Нью-Йорк, чтобы спасти своего сына, оказавшегося в ловушке в замерзающем городе.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.8,
+                "emotional": 0.7,
+                "visual": 0.85,
+                "originality": 0.6,
+                "humor": 0.2,
+                "romance": 0.1,
+                "suspense": 0.9,
+                "philosophical": 0.5,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.7
+            },
+            "tags": [
+                "climate disaster",
+                "ice age",
+                "global warming",
+                "new york flooding",
+                "father-son",
+                "survival",
+                "scientific"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "disaster",
+                    "spectacle",
+                    "climate",
+                    "special_effects"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "disaster",
+                "climate change",
+                "ice age",
+                "global warming",
+                "survival",
+                "new york"
+            ],
+            "poster": "/src/assets/images/films/poslezavtra.png"
+        },
+        {
+            "id": 36,
+            "title": "Сумерки",
+            "original_title": "Twilight",
+            "year": 2008,
+            "genres": ["romance", "drama", "fantasy", "vampire"],
+            "mood": [
+                "romantic",
+                "melancholic",
+                "atmospheric",
+                "teen",
+                "moody",
+                "dreamy"
+            ],
+            "energy_level": "low",
+            "duration": 122,
+            "rating": 5.2,
+            "director": "Catherine Hardwicke",
+            "description": "Подросток Белла Свон переезжает к отцу в дождливый городок Форкс, штат Вашингтон, где встречает загадочного и красивого Эдварда Каллена. Вскоре она узнаёт, что он — вампир, воздерживающийся от человеческой крови. Между ними вспыхивает опасная и запретная любовь, которая сталкивается с угрозами из сверхъестественного мира.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.3,
+                "emotional": 0.8,
+                "visual": 0.6,
+                "originality": 0.5,
+                "humor": 0.2,
+                "romance": 0.95,
+                "suspense": 0.5,
+                "philosophical": 0.2,
+                "fast_paced": 0.3,
+                "thought_provoking": 0.3
+            },
+            "tags": [
+                "vampire romance",
+                "teen drama",
+                "forks washington",
+                "forbidden love",
+                "love triangle",
+                "stephenie meyer",
+                "high school"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": true,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "teen",
+                "intellectual_level": "low",
+                "preferred_viewing": ["alone", "with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "teen_romance",
+                    "fantasy_romance",
+                    "drama",
+                    "young_adult"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "vampire",
+                "teen romance",
+                "twilight saga",
+                "forbidden love",
+                "drama",
+                "fantasy romance"
+            ],
+            "poster": "/src/assets/images/films/sumerki.png"
+        },
+        {
+            "id": 37,
+            "title": "Лысый нянька: Спецзадание",
+            "original_title": "The Pacifier",
+            "year": 2005,
+            "genres": ["comedy", "action", "family"],
+            "mood": [
+                "funny",
+                "heartwarming",
+                "action-packed",
+                "family-friendly",
+                "chaotic",
+                "lighthearted"
+            ],
+            "energy_level": "high",
+            "duration": 95,
+            "rating": 5.6,
+            "director": "Adam Shankman",
+            "description": "Крутой морской спецназовец Шейн Вулф получает неожиданное задание — защитить пятерых детей учёного, погибшего при загадочных обстоятельствах, и найти секретный проект, спрятанный в их доме. Суровый солдат оказывается в роли няньки, справляясь с детскими истериками, школьными проблемами и домашним хаосом.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.7,
+                "emotional": 0.6,
+                "visual": 0.5,
+                "originality": 0.4,
+                "humor": 0.8,
+                "romance": 0.2,
+                "suspense": 0.4,
+                "philosophical": 0.1,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "bodyguard",
+                "babysitting",
+                "family chaos",
+                "military humor",
+                "fish out of water",
+                "secret project",
+                "vin diesel"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": true,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "family",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_family", "with_friends"],
+                "best_time": ["afternoon", "evening"],
+                "viewing_context": [
+                    "family_comedy",
+                    "action_comedy",
+                    "light",
+                    "entertainment"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "vin diesel",
+                "comedy",
+                "family",
+                "babysitting",
+                "action comedy",
+                "bodyguard"
+            ],
+            "poster": "/src/assets/images/films/lysiy-nyanka-spetszadanie.png"
+        },
+        {
+            "id": 38,
+            "title": "Очень страшное кино",
+            "original_title": "Scary Movie",
+            "year": 2000,
+            "genres": ["comedy", "horror", "parody"],
+            "mood": [
+                "raunchy",
+                "absurd",
+                "satirical",
+                "irreverent",
+                "slapstick",
+                "shocking"
+            ],
+            "energy_level": "high",
+            "duration": 88,
+            "rating": 6.2,
+            "director": "Keenen Ivory Wayans",
+            "description": "Год спустя после убийства своей подруги, группа подростков становится мишенью для загадочного убийцы в маске. Фильм пародирует слэшеры 90-х, в первую очередь «Крик», а также другие популярные фильмы ужасов и молодёжные драмы того времени, сочетая ужасы с похабным юмором и абсурдными ситуациями.",
+            "parameters": {
+                "complexity": 0.2,
+                "action": 0.4,
+                "emotional": 0.2,
+                "visual": 0.4,
+                "originality": 0.7,
+                "humor": 0.95,
+                "romance": 0.3,
+                "suspense": 0.3,
+                "philosophical": 0.1,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "parody",
+                "slasher spoof",
+                "scream",
+                "raunchy humor",
+                "meta humor",
+                "teen horror",
+                "pop culture"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": false,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "teen",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "comedy",
+                    "parody",
+                    "raunchy_humor",
+                    "pop_culture"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "parody",
+                "scary movie",
+                "comedy",
+                "slasher spoof",
+                "raunchy",
+                "pop culture"
+            ],
+            "poster": "/src/assets/images/films/ochen-strashnoe-kino.png"
+        },
+        {
+            "id": 39,
+            "title": "Смокинг",
+            "original_title": "The Tuxedo",
+            "year": 2002,
+            "genres": ["action", "comedy", "science fiction", "spy"],
+            "mood": [
+                "funny",
+                "action-packed",
+                "silly",
+                "high-energy",
+                "campy",
+                "lighthearted"
+            ],
+            "energy_level": "high",
+            "duration": 98,
+            "rating": 5.3,
+            "director": "Kevin Donovan",
+            "description": "Скромный и неуклюжий водитель Джимми Тонг становится телохранителем супершпиона Кларка Дево. После того как Дево оказывается в коме, Джимми надевает его высокотехнологичный смокинг, который наделяет владельца невероятными способностями. Теперь ему придётся заменить агента и остановить злодейский план по отравлению мировых водных ресурсов.",
+            "parameters": {
+                "complexity": 0.3,
+                "action": 0.8,
+                "emotional": 0.3,
+                "visual": 0.6,
+                "originality": 0.5,
+                "humor": 0.8,
+                "romance": 0.4,
+                "suspense": 0.5,
+                "philosophical": 0.1,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.1
+            },
+            "tags": [
+                "high-tech suit",
+                "secret agent",
+                "body swap premise",
+                "water conspiracy",
+                "jackie chan comedy",
+                "fish out of water",
+                "gadgets"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": false,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening"],
+                "viewing_context": [
+                    "action_comedy",
+                    "jackie_chan",
+                    "light_entertainment",
+                    "spy_spoof"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "jackie chan",
+                "action comedy",
+                "spy",
+                "tuxedo",
+                "gadgets",
+                "bodyguard"
+            ],
+            "poster": "/src/assets/images/films/smoking.png"
+        },
+        {
+            "id": 40,
+            "title": "Блэйд 2",
+            "original_title": "Blade II",
+            "year": 2002,
+            "genres": ["action", "horror", "fantasy", "superhero"],
+            "mood": ["dark", "stylish", "brutal", "intense", "gothic", "noir"],
+            "energy_level": "high",
+            "duration": 117,
+            "rating": 6.7,
+            "director": "Guillermo del Toro",
+            "description": "Получеловек-полувампир Блэйд вынужден заключить временное перемирие со своей заклятой враждой — кланом вампиров, чтобы противостоять новой смертельной угрозе. Мутировавшие «рипперы» охотятся как на людей, так и на обычных вампиров, превращая их в своих сородичей. Блэйд объединяется с элитным отрядом охотников на вампиров «Кровяной отряд».",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.95,
+                "emotional": 0.5,
+                "visual": 0.8,
+                "originality": 0.6,
+                "humor": 0.2,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.3,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "daywalker",
+                "vampire war",
+                "mutant vampires",
+                "unlikely alliance",
+                "guillermo del toro",
+                "martial arts",
+                "comic book"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": true,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": false,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "action",
+                    "horror",
+                    "vampire",
+                    "comic_book",
+                    "stylish"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "blade",
+                "vampire",
+                "action",
+                "wesley snipes",
+                "horror",
+                "marvel"
+            ],
+            "poster": "/src/assets/images/films/bleyd-2.png"
+        },
+        {
+            "id": 41,
+            "title": "Иллюзия обмана 3",
+            "original_title": "Now You See Me 3",
+            "year": 2024,
+            "genres": ["thriller", "mystery", "crime", "action"],
+            "mood": [
+                "mind-bending",
+                "suspenseful",
+                "clever",
+                "fast-paced",
+                "glamorous",
+                "deceptive"
+            ],
+            "energy_level": "high",
+            "duration": 115,
+            "rating": 6.8,
+            "director": "Ruben Fleischer",
+            "description": "Члены легендарной группы иллюзионистов-грабителей «Четыре всадника» снова собираются вместе после нескольких лет подполья, чтобы совершить своё самое дерзкое и личное представление-ограбление. На этот раз их цель — разоблачить могущественную технологическую корпорацию, использующую магию и иллюзии для контроля над умами людей. Агент ФБР Дилан Роудс вновь оказывается втянут в их игру.",
+            "parameters": {
+                "complexity": 0.7,
+                "action": 0.7,
+                "emotional": 0.5,
+                "visual": 0.85,
+                "originality": 0.6,
+                "humor": 0.4,
+                "romance": 0.2,
+                "suspense": 0.9,
+                "philosophical": 0.3,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.5
+            },
+            "tags": [
+                "magic heist",
+                "four horsemen",
+                "fbi chase",
+                "technology vs magic",
+                "big reveal",
+                "illusion",
+                "mind games"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "mystery",
+                    "thriller",
+                    "heist",
+                    "magic",
+                    "spectacle"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "now you see me",
+                "magic",
+                "heist",
+                "thriller",
+                "illusion",
+                "four horsemen"
+            ],
+            "poster": "/src/assets/images/films/illyuziya-obmana-3.png"
+        },
+        {
+            "id": 42,
+            "title": "Мастер",
+            "original_title": "The Master",
+            "year": 2012,
+            "genres": ["drama", "psychological"],
+            "mood": [
+                "intense",
+                "psychological",
+                "contemplative",
+                "unsettling",
+                "character-driven",
+                "complex"
+            ],
+            "energy_level": "low",
+            "duration": 144,
+            "rating": 7.1,
+            "director": "Paul Thomas Anderson",
+            "description": "После Второй мировой войны Фредди Куэлл, неуравновешенный и склонный к насилию ветеран флота, скитается по Америке в поисках смысла. Он встречает харизматичного Ланкастера Додда, лидера религиозно-философского движения «Дело», который берёт Фредди под своё крыло. Между ними развиваются сложные, почти отеческо-сыновние отношения, полные манипуляций, зависимости и духовных поисков.",
+            "parameters": {
+                "complexity": 0.9,
+                "action": 0.1,
+                "emotional": 0.9,
+                "visual": 0.8,
+                "originality": 0.8,
+                "humor": 0.2,
+                "romance": 0.2,
+                "suspense": 0.5,
+                "philosophical": 0.95,
+                "fast_paced": 0.2,
+                "thought_provoking": 0.95
+            },
+            "tags": [
+                "cult leader",
+                "post-wwii",
+                "mentor-protege",
+                "psychological drama",
+                "spiritual quest",
+                "scientology parallels",
+                "character study"
+            ],
+            "features": {
+                "has_plot_twist": false,
+                "is_thought_provoking": true,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": false,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": false,
+                "is_realistic": true
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "high",
+                "preferred_viewing": ["alone"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "psychological",
+                    "art_house",
+                    "character_study",
+                    "philosophical"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "paul thomas anderson",
+                "psychological drama",
+                "cult",
+                "philosophical",
+                "post-war",
+                "character study"
+            ],
+            "poster": "/src/assets/images/films/master.png"
+        },
+        {
+            "id": 43,
+            "title": "Достать ножи",
+            "original_title": "Knives Out",
+            "year": 2019,
+            "genres": ["mystery", "comedy", "crime", "drama"],
+            "mood": [
+                "whodunit",
+                "witty",
+                "twisty",
+                "stylish",
+                "suspenseful",
+                "darkly comedic"
+            ],
+            "energy_level": "medium",
+            "duration": 130,
+            "rating": 7.9,
+            "director": "Rian Johnson",
+            "description": "В день своего 85-летия известный автор детективов Харлан Тромби был найден мёртвым в своём поместье. На первый взгляд это выглядело как самоубийство, но легендарный частный детектив Бенуа Блан приглашён для расследования. Каждый член эксцентричной и жадной семьи Тромби становится подозреваемым, а верная сиделка Марта становится неожиданным ключом к разгадке.",
+            "parameters": {
+                "complexity": 0.8,
+                "action": 0.2,
+                "emotional": 0.5,
+                "visual": 0.7,
+                "originality": 0.9,
+                "humor": 0.7,
+                "romance": 0.1,
+                "suspense": 0.9,
+                "philosophical": 0.4,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.7
+            },
+            "tags": [
+                "whodunit",
+                "family drama",
+                "inheritance",
+                "private detective",
+                "mansion mystery",
+                "social commentary",
+                "modern agatha christie"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["alone", "with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "mystery",
+                    "whodunit",
+                    "dialogue_driven",
+                    "ensemble_cast"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "whodunit",
+                "mystery",
+                "rian johnson",
+                "detective",
+                "family drama",
+                "dark comedy"
+            ],
+            "poster": "/src/assets/images/films/dostat-nozhi.png"
+        },
+        {
+            "id": 44,
+            "title": "Дэдпул",
+            "original_title": "Deadpool",
+            "year": 2016,
+            "genres": ["action", "comedy", "superhero"],
+            "mood": [
+                "irreverent",
+                "violent",
+                "meta-humorous",
+                "raunchy",
+                "energetic",
+                "self-aware"
+            ],
+            "energy_level": "high",
+            "duration": 108,
+            "rating": 8.0,
+            "director": "Tim Miller",
+            "description": "Бывший спецназовец Уэйд Уилсон работает наёмником, когда у него обнаруживают неизлечимый рак. Он соглашается на нелегальный эксперимент, который дарует ему невероятные способности к регенерации, но изуродовав его тело. Став Дэдпулом, он отправляется в кровавый и полный чёрного юмора путь мести против человека, который его исковеркал.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.9,
+                "emotional": 0.6,
+                "visual": 0.8,
+                "originality": 0.8,
+                "humor": 0.95,
+                "romance": 0.5,
+                "suspense": 0.7,
+                "philosophical": 0.3,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "fourth wall break",
+                "antihero",
+                "marvel",
+                "regeneration",
+                "revenge",
+                "raunchy humor",
+                "mutant",
+                "disfigured"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "action",
+                    "comedy",
+                    "superhero",
+                    "raunchy_humor",
+                    "meta"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "deadpool",
+                "ryan reynolds",
+                "antihero",
+                "raunchy comedy",
+                "marvel",
+                "fourth wall"
+            ],
+            "poster": "/src/assets/images/films/dedpul.png"
+        },
+        {
+            "id": 45,
+            "title": "Быстрее пули",
+            "original_title": "Bullet Train",
+            "year": 2022,
+            "genres": ["action", "comedy", "thriller", "crime"],
+            "mood": [
+                "stylish",
+                "chaotic",
+                "darkly comedic",
+                "fast-paced",
+                "violent",
+                "twisty"
+            ],
+            "energy_level": "high",
+            "duration": 127,
+            "rating": 7.3,
+            "director": "David Leitch",
+            "description": "Удача преследует неудачливого наёмника по кличке Счастливчик, которому поручено украсть чемодан в скоростном поезде «Синкансэн», идущем из Токио в Киото. Вскоре он понимает, что на том же поезде находятся другие профессиональные убийцы с пересекающимися заданиями, и ему приходится выживать в хаотичной и кровавой бойне на колёсах.",
+            "parameters": {
+                "complexity": 0.7,
+                "action": 0.9,
+                "emotional": 0.5,
+                "visual": 0.85,
+                "originality": 0.7,
+                "humor": 0.8,
+                "romance": 0.1,
+                "suspense": 0.8,
+                "philosophical": 0.3,
+                "fast_paced": 0.95,
+                "thought_provoking": 0.4
+            },
+            "tags": [
+                "assassins",
+                "bullet train",
+                "japan",
+                "chaotic",
+                "fate and luck",
+                "ensemble cast",
+                "case retrieval"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "action",
+                    "comedy",
+                    "thriller",
+                    "stylish",
+                    "ensemble"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "bullet train",
+                "action comedy",
+                "assassins",
+                "brad pitt",
+                "train thriller",
+                "chaotic"
+            ],
+            "poster": "/src/assets/images/films/bystree-puli.png"
+        },
+        {
+            "id": 46,
+            "title": "Доктор Стрэндж",
+            "original_title": "Doctor Strange",
+            "year": 2016,
+            "genres": ["action", "adventure", "fantasy", "superhero"],
+            "mood": [
+                "mind-bending",
+                "visually stunning",
+                "mystical",
+                "introspective",
+                "epic",
+                "trippy"
+            ],
+            "energy_level": "high",
+            "duration": 115,
+            "rating": 7.5,
+            "director": "Scott Derrickson",
+            "description": "Выдающийся, но высокомерный нейрохирург доктор Стивен Стрэндж попадает в ужасную аварию, которая лишает его карьеры. В поисках исцеления он отправляется в Катманду и обнаруживает скрытый мир мистики и альтернативных измерений под руководством Древней. Ему предстоит освоить магические искусства и защитить Землю от угроз из тёмных измерений.",
+            "parameters": {
+                "complexity": 0.7,
+                "action": 0.8,
+                "emotional": 0.7,
+                "visual": 0.95,
+                "originality": 0.8,
+                "humor": 0.6,
+                "romance": 0.2,
+                "suspense": 0.7,
+                "philosophical": 0.6,
+                "fast_paced": 0.7,
+                "thought_provoking": 0.6
+            },
+            "tags": [
+                "multiverse",
+                "magic",
+                "sorcerer supreme",
+                "inception-like visuals",
+                "arrogance to humility",
+                "kamartaj",
+                "time stone"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "young_adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "superhero",
+                    "fantasy",
+                    "visual_effects",
+                    "marvel",
+                    "magic"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "doctor strange",
+                "marvel",
+                "magic",
+                "visual effects",
+                "benedict cumberbatch",
+                "multiverse"
+            ],
+            "poster": "/src/assets/images/films/doktor-strandzh.png"
+        },
+        {
+            "id": 47,
+            "title": "Миссия: Красный",
+            "original_title": "Red",
+            "year": 2010,
+            "genres": ["action", "comedy", "thriller"],
+            "mood": [
+                "funny",
+                "action-packed",
+                "lighthearted",
+                "stylish",
+                "ensemble",
+                "retiree adventure"
+            ],
+            "energy_level": "high",
+            "duration": 111,
+            "rating": 7.0,
+            "director": "Robert Schwentke",
+            "description": "Фрэнк Мозес, бывший агент ЦРУ высшей категории «RED» (Выведен из эксплуатации — Повышенная опасность), ведёт скучную жизнь на пенсии, пока на него не начинается охота. Чтобы выжить и раскрыть заговор, он воссоединяет свою старую команду таких же «пенсионеров»-спецагентов, чтобы доказать, что они ещё опаснее, чем когда-либо.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.8,
+                "emotional": 0.5,
+                "visual": 0.7,
+                "originality": 0.6,
+                "humor": 0.8,
+                "romance": 0.4,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.3
+            },
+            "tags": [
+                "retired assassins",
+                "cia conspiracy",
+                "older action heroes",
+                "team reunion",
+                "comic adaptation",
+                "action comedy",
+                "bruce willis"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "action_comedy",
+                    "ensemble",
+                    "spy_spoof",
+                    "light"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "red",
+                "retired cia",
+                "action comedy",
+                "bruce willis",
+                "ensemble",
+                "older heroes"
+            ],
+            "poster": "/src/assets/images/films/missiya-krasnyy.png"
+        },
+        {
+            "id": 48,
+            "title": "Главы государств",
+            "original_title": "The Head of State",
+            "year": 2003,
+            "genres": ["comedy", "political satire", "drama"],
+            "mood": [
+                "satirical",
+                "funny",
+                "uplifting",
+                "underdog story",
+                "social commentary",
+                "lighthearted"
+            ],
+            "energy_level": "medium",
+            "duration": 95,
+            "rating": 5.6,
+            "director": "Chris Rock",
+            "description": "Мейс Гиллиам, обычный альтруистичный вашингтонский советник, неожиданно выдвигается своей партией в качестве кандидата в вице-президенты после гибели основных кандидатов. Когда затем погибает и кандидат в президенты, Мейс становится первым афроамериканцем, баллотирующимся в президенты США от крупной партии, ведя неортодоксальную и искреннюю кампанию против опытного оппонента.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.2,
+                "emotional": 0.6,
+                "visual": 0.5,
+                "originality": 0.7,
+                "humor": 0.8,
+                "romance": 0.4,
+                "suspense": 0.3,
+                "philosophical": 0.5,
+                "fast_paced": 0.6,
+                "thought_provoking": 0.6
+            },
+            "tags": [
+                "political satire",
+                "presidential campaign",
+                "underdog",
+                "african american first",
+                "chris rock",
+                "washingtong d.c.",
+                "grassroots"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": true,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": true,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": true,
+                "is_fast_paced": false,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends", "with_family"],
+                "best_time": ["evening"],
+                "viewing_context": [
+                    "political_comedy",
+                    "satire",
+                    "underdog",
+                    "light_drama"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "chris rock",
+                "political satire",
+                "president",
+                "comedy",
+                "underdog",
+                "campaign"
+            ],
+            "poster": "/src/assets/images/films/glavy-gosudarstv.png"
+        },
+        {
+            "id": 49,
+            "title": "Мальчишник: Часть III",
+            "original_title": "The Hangover Part III",
+            "year": 2013,
+            "genres": ["comedy", "crime", "adventure"],
+            "mood": [
+                "chaotic",
+                "dark comedy",
+                "absurd",
+                "tense",
+                "concluding",
+                "violent"
+            ],
+            "energy_level": "high",
+            "duration": 100,
+            "rating": 5.8,
+            "director": "Todd Phillips",
+            "description": "На этот раз «волчья стая» не отправляется на вечеринку. После того как Аллен страдает от личной трагедии, его друзья Фил и Стью решают отвезти его в психиатрическую клинику. По дороге их похищает жестокий преступник Маршалл, который требует найти мистера Чау, сбежавшего из тюрьмы и укравшего у него миллионы. Охота за Чау приводит к хаосу в Лас-Вегасе и Мексике.",
+            "parameters": {
+                "complexity": 0.5,
+                "action": 0.7,
+                "emotional": 0.5,
+                "visual": 0.6,
+                "originality": 0.4,
+                "humor": 0.7,
+                "romance": 0.1,
+                "suspense": 0.6,
+                "philosophical": 0.2,
+                "fast_paced": 0.8,
+                "thought_provoking": 0.2
+            },
+            "tags": [
+                "final chapter",
+                "mr. chow",
+                "las vegas",
+                "kidnapping",
+                "crime caper",
+                "wolfpack",
+                "intervention"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": false,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": false,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "low",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "comedy",
+                    "sequel",
+                    "adventure",
+                    "dark_comedy",
+                    "franchise_finale"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "the hangover",
+                "part iii",
+                "comedy",
+                "crime",
+                "las vegas",
+                "finale"
+            ],
+            "poster": "/src/assets/images/films/malchishnik-chast-3.png"
+        },
+        {
+            "id": 50,
+            "title": "Снова в деле",
+            "original_title": "Back in Action",
+            "year": 2024,
+            "genres": ["action", "comedy", "spy"],
+            "mood": [
+                "high-energy",
+                "meta-humorous",
+                "self-aware",
+                "chaotic",
+                "stylish",
+                "buddy comedy"
+            ],
+            "energy_level": "high",
+            "duration": 102,
+            "rating": 6.8,
+            "director": "Seth Gordon",
+            "description": "Две бывшие супершпионки, вышедшие на пенсию и теперь живущие скучной жизнью пригородных мам, вынуждены вернуться в строй, когда их старый враг угрожает миру. Используя свои материнские навыки и давно забытые шпионские приёмы, они должны снова научиться работать в команде, чтобы остановить высокотехнологичный заговор, балансируя между спасением мира и родительскими собраниями.",
+            "parameters": {
+                "complexity": 0.4,
+                "action": 0.85,
+                "emotional": 0.6,
+                "visual": 0.75,
+                "originality": 0.6,
+                "humor": 0.85,
+                "romance": 0.3,
+                "suspense": 0.7,
+                "philosophical": 0.2,
+                "fast_paced": 0.9,
+                "thought_provoking": 0.3
+            },
+            "tags": [
+                "retired spies",
+                "mom spies",
+                "buddy action",
+                "comeback",
+                "suburban life",
+                "high-tech villain",
+                "meta comedy"
+            ],
+            "features": {
+                "has_plot_twist": true,
+                "is_thought_provoking": false,
+                "has_special_effects": true,
+                "is_emotional": true,
+                "is_funny": true,
+                "is_romantic": false,
+                "is_scary": false,
+                "is_inspirational": true,
+                "is_relaxing": false,
+                "is_fast_paced": true,
+                "has_happy_ending": true,
+                "is_realistic": false
+            },
+            "target_audience": {
+                "age_group": "adult",
+                "intellectual_level": "medium",
+                "preferred_viewing": ["with_friends"],
+                "best_time": ["evening", "night"],
+                "viewing_context": [
+                    "action_comedy",
+                    "spy_spoof",
+                    "buddy_film",
+                    "meta_humor"
+                ]
+            },
+            "weight": 1.0,
+            "keywords": [
+                "action comedy",
+                "spy",
+                "comeback",
+                "buddy film",
+                "retired agents",
+                "2024"
+            ],
+            "poster": "/src/assets/images/films/snova-v-dele-2024.png"
+        }
+    ]
+}
